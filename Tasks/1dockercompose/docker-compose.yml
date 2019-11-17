@@ -1,0 +1,6 @@
+version: '3'
+services:
+        host11:
+                image: "wsiekiera/netutils:0.3"
+        host12:
+                image: "wsiekiera/netutils:0.3"
